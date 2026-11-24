@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
-  <a href="./LICENSE"><img src="https://img.shields.io/badge/license-CC0%201.0-0369a1.svg" alt="License: CC0 1.0"></a>
+  <a href="./LICENSE"><img src="https://img.shields.io/badge/license-CC0_1.0-0369a1.svg" alt="License: CC0 1.0"></a>
   <a href="./docs/widgets/README.md"><img src="https://img.shields.io/badge/виджетов-40-1d4ed8.svg" alt="Виджетов: 40"></a>
 </p>
 
