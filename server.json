@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.KonstantinRogozhkin/spy2money",
+  "title": "Spy2Money",
+  "description": "Read-only US options flow, darkpool prints, dealer gamma (GEX), IV and BTC/ETH options analytics.",
+  "websiteUrl": "https://spy2money.com",
+  "repository": {
+    "url": "https://github.com/KonstantinRogozhkin/awesome-spy2money",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.spy2money.com/mcp"
+    }
+  ]
+}

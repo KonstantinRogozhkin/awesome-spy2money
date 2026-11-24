@@ -18,6 +18,8 @@ Spy2Money даёт два способа анализировать данные
 
 **Адрес сервера:** `https://mcp.spy2money.com/mcp`
 
+Сервер опубликован в [официальном MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=io.github.KonstantinRogozhkin/spy2money) как `io.github.KonstantinRogozhkin/spy2money`; описание — [server.json](../server.json).
+
 ### Подключение
 
 **Claude (claude.ai и Claude Desktop)**
