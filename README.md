@@ -216,6 +216,10 @@
 - [awesome-remote-mcp-servers](https://github.com/punkpeye/awesome-remote-mcp-servers) — облачные MCP-серверы, подключаемые по URL.
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) — крупнейший каталог MCP-серверов.
 - [awesome-tradingview](https://github.com/tradingview/awesome-tradingview) — виджеты, библиотеки и проекты на TradingView.
+- [thuquant/awesome-quant](https://github.com/thuquant/awesome-quant) — китайский индекс ресурсов по количественным финансам и источникам данных.
+- [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) — библиотеки, стратегии и книги по системной торговле.
+- [awesome-quant-ai](https://github.com/leoncuhk/awesome-quant-ai) — AI и машинное обучение в количественных финансах.
+- [awesome-finance-agents](https://github.com/aowang-ai/awesome-finance-agents) — LLM-агенты и MCP-инструменты для финансовых задач.
 - [awesome-quant-competitions](https://github.com/KonstantinRogozhkin/awesome-quant-competitions) — соревнования по квант-трейдингу, стипендии и вакансии.
 
 ## Сообщество и поддержка
