@@ -9,6 +9,7 @@
   <a href="./LICENSE"><img src="https://img.shields.io/badge/license-CC0_1.0-0369a1.svg" alt="License: CC0 1.0"></a>
   <a href="./docs/widgets/README.md"><img src="https://img.shields.io/badge/виджетов-40-1d4ed8.svg" alt="Виджетов: 40"></a>
   <a href="https://www.tensorblock.co/mcp/servers/github-konstantinrogozhkin-awesome-spy2money-ed396b3b"><img src="https://mcp-index.tensorblock.co/v1/servers/github-konstantinrogozhkin-awesome-spy2money-ed396b3b/badge.svg" alt="Indexed on TensorBlock MCP Index"></a>
+  <a href="https://glama.ai/mcp/connectors/io.github.KonstantinRogozhkin/spy2money"><img src="https://glama.ai/mcp/connectors/io.github.KonstantinRogozhkin/spy2money/badges/score.svg" alt="Spy2Money MCP connector on Glama"></a>
 </p>
 
 <p align="center">
